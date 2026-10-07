@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "build": 100,
+  "firmware": "Prueba_OTA_STM32_Blink.ino.bin",
+  "size": 13592,
+  "crc32": "1599FAD6"
+}
