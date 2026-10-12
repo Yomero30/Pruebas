@@ -3,5 +3,5 @@
   "build": 2,
   "firmware": "Prueba_OTA_STM32_Blink.ino.bin",
   "size": 13592,
-  "crc32": "1599FAD6"
+  "crc32": "445F95DB"
 }
